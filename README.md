@@ -4,7 +4,7 @@ Make MS Windows fonts from an existing Windows installation available in Linux t
 
 ### Usage ###
 ```
-linker.sh /path/to/windows/fontdir /path/to/linux/fontdir /path/to/fontlist
+./linker.sh /path/to/windows/fontdir /path/to/linux/fontdir /path/to/fontlist
 ```
 
 ### Sources of font names ###
